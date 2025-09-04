@@ -481,7 +481,7 @@ st.markdown('''
 ''', unsafe_allow_html=True)
 
 # Gemini API Configuration
-GEMINI_API_KEY = "AIzaSyBZYb0TpTwyPwcxQhL60G56CLo00tg1AE8"
+GEMINI_API_KEY = "AIzaSyCjjXbJV8IEpHV1x3H-BwPktSp1KP3CJNs"
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
 
 # Construction keywords for filtering
@@ -685,3 +685,4 @@ function scrollToBottom() {
 setTimeout(scrollToBottom, 100);
 </script>
 """, unsafe_allow_html=True)
+
